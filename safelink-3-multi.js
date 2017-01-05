@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="email.html"}
-if(x=="2"){xxx="forex-trading.html"}
-if(x=="3"){xxx="breakfast-being-most-important-thing.html"}
-if(x=="4"){xxx="google-drive.html"}
-if(x=="5"){xxx="google-adsense.html"}a_to_ve[i].href="https://safe-linkini.blogspot.com/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="https://jalansafelink.blogspot.com/2017/01/android.html"}
+if(x=="2"){xxx="http://jalansafelink.blogspot.com/2017/01/adsense.html"}
+if(x=="3"){xxx="http://jalansafelink.blogspot.com/2017/01/sport-car.html"}
+if(x=="4"){xxx="https://jalansafelink.blogspot.com/2017/01/anak-dan-bunda.html"}
+if(x=="5"){xxx="http://jalansafelink.blogspot.com/2017/01/kesehatan-anak.html"}a_to_ve[i].href="https://jalansafelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
