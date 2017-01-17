@@ -30,7 +30,7 @@ if(x=="6"){xxx="android.html"}
 if(x=="7"){xxx="forex.html"}
 if(x=="8"){xxx="cancer.html"}
 if(x=="9"){xxx="adsense.html"}
-if(x=="10"){xxx="google-drive.html"}a_to_ve[i].href="https://blogloncatan.blogspot.com/2016/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="google-drive.html"}a_to_ve[i].href="https://blogloncatan.blogspot.com/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
