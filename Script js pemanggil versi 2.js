@@ -19,16 +19,16 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*20)+ 1);var xxx=null;
-if(x=="1"){xxx="/2017/01/leather-jacket.html"}
-if(x=="2"){xxx="/2017/01/fashion.html"}
-if(x=="3"){xxx="/2017/01/viral.html"}
-if(x=="4"){xxx="/2017/01/facebook.html"}
-if(x=="5"){xxx="/2017/01/you-tube.html"}
-if(x=="6"){xxx="/2017/01/amd.html"}
-if(x=="7"){xxx="/2017/01/adsense.html"}
-if(x=="8"){xxx="/2017/01/blogger.html"}
-if(x=="9"){xxx="/2017/01/forex.html"}
-if(x=="10"){xxx="/2017/01/car-insurance.html"}a_to_ve[i].href="https://geturlsafelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="leather-jacket.html"}
+if(x=="2"){xxx="fashion.html"}
+if(x=="3"){xxx="viral.html"}
+if(x=="4"){xxx="facebook.html"}
+if(x=="5"){xxx="you-tube.html"}
+if(x=="6"){xxx="amd.html"}
+if(x=="7"){xxx="adsense.html"}
+if(x=="8"){xxx="blogger.html"}
+if(x=="9"){xxx="forex.html"}
+if(x=="10"){xxx="car-insurance.html"}a_to_ve[i].href="https://geturlsafelink.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
